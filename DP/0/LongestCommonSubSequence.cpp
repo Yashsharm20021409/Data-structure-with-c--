@@ -40,6 +40,7 @@ int main(){
     char st1[s1+1];
     char st2[s2+1];
 
+    // to convert string into char array
     strcpy(st1, str1.c_str());
     strcpy(st2, str2.c_str());
 
